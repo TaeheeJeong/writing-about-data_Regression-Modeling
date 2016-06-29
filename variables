@@ -1,0 +1,20 @@
+Step 3: Describe your variables.
+
+From Gap Minder data, income per person, alcohol consumption, life expectancy, urban rate are my varialbes. 
+
+a) Describe what your explanatory and response variables measured.
+
+explanatory varaibles would be income or alcohol consumption or urban rate. 
+response variables would be life expectancy.
+
+b) Describe the response scales for your explanatory and response variables.
+
+The scale of income is $103 ~ $105,000.
+The scale of alcohol consumption is 0.03 ~ 23 Liter.
+The scale of life expectancy is 47 ~ 83 years.
+The scale of urban rate is 10 ~ 100.
+
+
+c) Describe how you managed your explanatory and response variables.
+
+I would excluded the empty data. It seems that ther is no outlier. 
